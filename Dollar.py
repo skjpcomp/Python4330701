@@ -1,0 +1,9 @@
+dollars=int(input('enter amount in dollar'))
+Quarter=0.25*dollars
+print('Quarter=',Quarter)
+Dime=0.10*dollars
+print('Dime=',Dime)
+Nickels=0.05*dollars
+print('Nickels=',Nickels)
+Penny=0.01*dollars
+print('Penny=',Penny)
